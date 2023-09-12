@@ -36,30 +36,21 @@
 </div> -->
 
 
-### A Student, Developer & Writer
+### A Student & Developer 
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
-- 👉 Leading [Flutter Islamabad][flutter_isb]
 - 💻 The tech I'm interested Flutter/ML/AR etc.
-- ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
 - 🎮 COD Modern Warfare 1 Multiplayer
 - 📄 Live [Portfolio][profile]
-- 🎨 [Dribbble][dribbble] profile
 
 #### ✍ Medium Blog Posts
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [flutter.py | Kings on both -end](https://mhmzdev.medium.com/flutter-py-kings-on-both-end-90917c0b4c43?source=rss-198dec8dcf4a------2)
-- [Flutter3 &amp; Web3 | Metamask Integration](https://mhmzdev.medium.com/flutter3-web3-metamask-integration-838acf654276?source=rss-198dec8dcf4a------2)
-- [Should I learn Dart before Flutter?](https://itnext.io/should-i-learn-dart-before-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
-- [Integrate Medium Blog Feed in Flutter App — MVC Architecture](https://itnext.io/integrate-medium-blog-feed-in-flutter-app-mvc-architecture-3e0b3c90bfa3?source=rss-198dec8dcf4a------2)
-- [Folio — Responsive Portfolio using Flutter 2.0](https://itnext.io/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f?source=rss-198dec8dcf4a------2)
+
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- ### Languages & Tools

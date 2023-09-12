@@ -41,7 +41,7 @@
 
 ### A Student, Developer & Writer
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/mdshwin555/mdshwin555/assets/116727137/3e386486-0544-4c95-9834-1dcf55b01fe8" width="500" height="320" />
 
 #### Talking about my personal stuff:
 

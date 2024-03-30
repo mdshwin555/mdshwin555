@@ -76,12 +76,12 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
+[![AL Mouayad's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
 
 
 
 
-Open Source Contributor from <b>Pakistan<b> 💚 
+Open Source Contributor from <b>Syria<b> 💚 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
 

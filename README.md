@@ -10,12 +10,12 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/mhmzdev/](https://www.linkedin.com/in/al-mouayad-shwin/">
+<a href="https://www.linkedin.com/in/al-mouayad-shwin/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
-<a href="https://www.facebook.com/mhmzdev/](https://www.facebook.com/profile.php?id=100015038264200">
+<a href="https://www.facebook.com/profile.php?id=100015038264200">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
